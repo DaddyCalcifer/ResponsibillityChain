@@ -1,5 +1,6 @@
 package com.example.responsibillitychain.Logic;
 
+import com.example.responsibillitychain.HelloApplication;
 import com.example.responsibillitychain.Models.EnterObject;
 import com.example.responsibillitychain.Models.Player;
 import com.example.responsibillitychain.Models.SceneObject;
@@ -12,6 +13,10 @@ public class GameEngine {
     Player player;
     Pane pane;
     ActionChain chain;
+
+    public Kabanchik enemyLogic = new Kabanchik(this);
+
+    public final int maxX = 35, maxY = 20;
     public List<EnterObject> objects = new ArrayList<EnterObject>();
     public GameEngine(Pane pane)
     {
@@ -55,5 +60,22 @@ public class GameEngine {
         System.out.println("Монет: " + player.Coins);
         System.out.println("X: " + player.X + "      Y: " + player.Y);
         System.out.println("\n\n");
+    }
+    public boolean CheckCords(int X, int Y)
+    {
+        for (var o:
+             objects) {
+            if(o.X == X && o.Y == Y)
+                return false;
+        }
+        return true;
+    }
+    public void PlayerMove(int X, int Y)
+    {
+        enemyLogic.makeMove();
+        if(player.X+X < maxX && player.X+X >= 0)
+            player.X += X;
+        if(player.Y+Y < maxY && player.Y+Y >= 0)
+            player.Y += Y;
     }
 }

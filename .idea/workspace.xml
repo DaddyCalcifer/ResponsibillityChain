@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acd06eae-167f-4c1a-be9a-f81409ea2103" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Handlers/CoinHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Handlers/CoinHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Handlers/HealHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Handlers/HealHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Handlers/LoseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Handlers/LoseHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Logic/ActionChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Logic/ActionChain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Logic/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Logic/GameEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Coin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/EnterObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/EnterObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Handler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Heal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Heal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/SceneObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/SceneObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Spike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/responsibillitychain/Models/Spike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/responsibillitychain/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/responsibillitychain/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="acd06eae-167f-4c1a-be9a-f81409ea2103" name="Changes" comment="xd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -62,7 +46,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RecentsManager">
